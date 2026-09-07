@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.production.example
+.git
+.phpunit.cache
+.phpunit.result.cache
+node_modules
+storefront/node_modules
+vendor
+tests
+storage/logs
+storage/framework/cache
+storage/framework/sessions
+storage/framework/views
+public/build
+storefront/.next
+storefront/out

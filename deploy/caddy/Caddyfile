@@ -1,0 +1,4 @@
+atelier404.store, www.atelier404.store {
+    encode zstd gzip
+    reverse_proxy web:80
+}

@@ -1,0 +1,60 @@
+[29/08/2026  3:55:31.11] ===== LAUNCH STARTED ===== 
+
+   INFO  Nothing to migrate.  
+
+[Tue 09/01/2026  4:55:51.42] ===== LAUNCH STARTED ===== 
+
+   INFO  Application key set successfully.  
+
+
+   INFO  Nothing to migrate.  
+
+[Tue 09/01/2026  4:56:12.30] Startup finished. Laravel=RUNNING NextJS=RUNNING 
+[Tue 09/01/2026 19:08:16.16] ===== LAUNCH STARTED ===== 
+
+   INFO  Application key set successfully.  
+
+
+   INFO  Nothing to migrate.  
+
+[Tue 09/01/2026 19:08:28.26] Startup finished. Laravel=RUNNING NextJS=RUNNING 
+[Tue 09/01/2026 19:35:19.49] ===== LAUNCH STARTED ===== 
+
+   INFO  Application key set successfully.  
+
+
+   INFO  Nothing to migrate.  
+
+[Tue 09/01/2026 19:35:31.21] Startup finished. Laravel=RUNNING NextJS=RUNNING 
+[Wed 09/02/2026  1:01:27.06] ===== LAUNCH STARTED ===== 
+
+   INFO  Application key set successfully.  
+
+
+   INFO  Nothing to migrate.  
+
+[Wed 09/02/2026  1:04:09.36] Startup finished. Laravel=RUNNING NextJS=FAILED 
+[Fri 09/04/2026  3:49:53.44] ===== LAUNCH STARTED ===== 
+
+   INFO  Application key set successfully.  
+
+
+   INFO  Nothing to migrate.  
+
+[Fri 09/04/2026  3:50:08.34] Startup finished. Laravel=RUNNING NextJS=RUNNING 
+[Mon 09/07/2026 21:57:13.26] ===== LAUNCH STARTED ===== 
+
+   INFO  Application key set successfully.  
+
+
+   INFO  Nothing to migrate.  
+
+[Mon 09/07/2026 21:57:33.23] Startup finished. Laravel=RUNNING NextJS=RUNNING 
+[Mon 09/07/2026 23:34:19.29] ===== LAUNCH STARTED ===== 
+
+   INFO  Application key set successfully.  
+
+
+   INFO  Nothing to migrate.  
+
+[Mon 09/07/2026 23:34:34.25] Startup finished. Laravel=RUNNING NextJS=RUNNING 

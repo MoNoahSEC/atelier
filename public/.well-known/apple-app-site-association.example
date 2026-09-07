@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "REPLACE_WITH_APPLE_TEAM_ID.com.atelier.storefront",
+        "components": [
+          { "/": "/products/*", "comment": "Product links" },
+          { "/": "/track-order*", "comment": "Order tracking links" }
+        ]
+      }
+    ]
+  }
+}

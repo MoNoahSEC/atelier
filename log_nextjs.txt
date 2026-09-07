@@ -1,0 +1,16 @@
+Mon 09/07/2026 23:34:25.37 - Next.js starting 
+
+> storefront@0.1.0 dev
+> next dev -H 0.0.0.0
+
+▲ Next.js 16.3.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://0.0.0.0:3000
+- Environments: .env.local
+✓ Ready in 966ms
+✓ Running next.config.ts took 98ms
+
+⚠ Your project has `@next/font` installed as a dependency, please use the built-in `next/font` instead. The `@next/font` package will be removed in Next.js 14. You can migrate by running `npx --yes @next/codemod@latest built-in-next-font .`. Read more: https://nextjs.org/docs/messages/built-in-next-font
+ GET / 200 in 1794ms (next.js: 342ms, application-code: 1452ms)
+ GET / 200 in 1465ms (next.js: 27ms, application-code: 1438ms)
+ GET /manifest.webmanifest 200 in 155ms (next.js: 115ms, application-code: 40ms)
